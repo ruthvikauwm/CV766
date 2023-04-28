@@ -1,0 +1,16 @@
+train: /content/drive/MyDrive/CV_Project/Dataset/NaturalDataset/images/train
+val: /content/drive/MyDrive/CV_Project/Dataset/NaturalDataset/images/val
+test:  /content/drive/MyDrive/CV_Project/Dataset/test2017
+nc: 10
+# Classes
+names:
+  0: airplane
+  1: bicycle
+  2: boat
+  3: bus
+  4: car
+  5: dog
+  6: motorcycle
+  7: person
+  8: train
+  9: truck
