@@ -1,6 +1,27 @@
-train: /content/drive/MyDrive/CV_Project/Dataset/NaturalDataset/images/train
-val: /content/drive/MyDrive/CV_Project/Dataset/NaturalDataset/images/val
-test:  /content/drive/MyDrive/CV_Project/Dataset/test2017
+#natural_only
+train: /content/drive/MyDrive/CV_Project/Dataset/natural_only/images/train
+val: /content/drive/MyDrive/CV_Project/Dataset/natural_only/images/val
+test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
+# #natural_aug
+# train: /content/drive/MyDrive/CV_Project/Dataset/natural_aug/images/train
+# val: /content/drive/MyDrive/CV_Project/Dataset/natural_aug/images/val
+# test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
+# #natural_gan_sd
+# train: /content/drive/MyDrive/CV_Project/Dataset/natural_gan_sd/images/train
+# val: /content/drive/MyDrive/CV_Project/Dataset/natural_gan_sd/images/val
+# test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
+# #gan_sd
+# train: /content/drive/MyDrive/CV_Project/Dataset/gan_sd/images/train
+# val: /content/drive/MyDrive/CV_Project/Dataset/gan_sd/images/val
+# test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
+# #natural_sd_aug
+# train: /content/drive/MyDrive/CV_Project/Dataset/natural_sd_aug/images/train
+# val: /content/drive/MyDrive/CV_Project/Dataset/natural_sd_aug/images/val
+# test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
+# #natural_gan_sd_aug
+# train: /content/drive/MyDrive/CV_Project/Dataset/natural_gan_sd_aug/images/train
+# val: /content/drive/MyDrive/CV_Project/Dataset/natural_gan_sd_aug/images/val
+# test:  /content/drive/MyDrive/CV_Project/Dataset/YOLO_TEST
 nc: 10
 # Classes
 names:
